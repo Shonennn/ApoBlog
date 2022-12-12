@@ -1,2 +1,4 @@
-﻿# ApolloServerAuthentication
-An easy to use Apollo Server authentication system using bcrypt and JWT, simply change the URI link in index.js to your MongoDB server and you're good to go!
+﻿# ApoBlod
+ 
+implemented by following 
+https://www.youtube.com/watch?v=gAbIQx26wSI and https://www.youtube.com/watch?v=0Z68AHS011Y
